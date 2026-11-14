@@ -520,7 +520,7 @@ const koFinals = {
 	"wen": ["won", "won", "won", "won", "won", "won", "won", "won"],
 	"on": ["yun", "yun", "yun", "yun", "yun", "yun", "yun", "yun"],
 	"won": ["on", "on", "on", "on", "on", "on", "on", "on"],
-	"jwon": ["eon", "eon", "eon", "eon", "eon", "eon", "eon", "weon"],
+	"jwon": ["eon", "eon", "eon", "eon", "eon", "eon", "eon", "won"],
 	"in": ["eun", "eun", "eun", "eun", "eun", "eun", "eun", "eun"],
 	"jin": ["in", "in", "in", "in", "in", "in", "in", "in"],
 	"win": ["un", "un", "un", "un", "un", "un", "un", "un"],
